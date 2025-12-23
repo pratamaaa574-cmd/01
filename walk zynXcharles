@@ -358,8 +358,8 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "ZynnXExploit",
     Icon = "lucide:mountain-snow",
-    Author = "by berlyy",
-    Folder = "By berlyy",
+    Author = "by Charless/Zyy",
+    Folder = "By Charless/Zyy",
     Size = UDim2.fromOffset(580, 460),
     Theme = "Midnight",
     Resizable = true,
@@ -785,7 +785,7 @@ Replay/route system untuk checkpoint.
 - Run CPx → CPy = jalur spesifik
 - Playback Speed = atur kecepatan replay (0.25x - 3.00x)
 
-Own Zyn/berlyy
+Own Zyn/Charless
     ]],
     TextSize = 16,
     TextTransparency = 0.25,
